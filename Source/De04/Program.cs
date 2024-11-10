@@ -44,7 +44,11 @@ class Program
     {
         while (true) {
             Console.Write("Lua chon cau: ");
-            int lc = int.Parse(Console.ReadLine());
+            string input = Console.ReadLine();
+            if (!int.TryParse(input, out int lc)) {
+                Console.WriteLine("Vui long nhap so!");
+                continue;
+            }
             if (lc == 1) {
                 Manager manage = new Manager {
                     Name = "Nguyen Trung Hieu",
