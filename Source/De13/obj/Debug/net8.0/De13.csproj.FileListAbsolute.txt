@@ -1,0 +1,15 @@
+D:\Project VS\DOTNET_KTKN2\Source\De13\bin\Debug\net8.0\De13.exe
+D:\Project VS\DOTNET_KTKN2\Source\De13\bin\Debug\net8.0\De13.deps.json
+D:\Project VS\DOTNET_KTKN2\Source\De13\bin\Debug\net8.0\De13.runtimeconfig.json
+D:\Project VS\DOTNET_KTKN2\Source\De13\bin\Debug\net8.0\De13.dll
+D:\Project VS\DOTNET_KTKN2\Source\De13\bin\Debug\net8.0\De13.pdb
+D:\Project VS\DOTNET_KTKN2\Source\De13\obj\Debug\net8.0\De13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project VS\DOTNET_KTKN2\Source\De13\obj\Debug\net8.0\De13.AssemblyInfoInputs.cache
+D:\Project VS\DOTNET_KTKN2\Source\De13\obj\Debug\net8.0\De13.AssemblyInfo.cs
+D:\Project VS\DOTNET_KTKN2\Source\De13\obj\Debug\net8.0\De13.csproj.CoreCompileInputs.cache
+D:\Project VS\DOTNET_KTKN2\Source\De13\obj\Debug\net8.0\De13.sourcelink.json
+D:\Project VS\DOTNET_KTKN2\Source\De13\obj\Debug\net8.0\De13.dll
+D:\Project VS\DOTNET_KTKN2\Source\De13\obj\Debug\net8.0\refint\De13.dll
+D:\Project VS\DOTNET_KTKN2\Source\De13\obj\Debug\net8.0\De13.pdb
+D:\Project VS\DOTNET_KTKN2\Source\De13\obj\Debug\net8.0\De13.genruntimeconfig.cache
+D:\Project VS\DOTNET_KTKN2\Source\De13\obj\Debug\net8.0\ref\De13.dll
