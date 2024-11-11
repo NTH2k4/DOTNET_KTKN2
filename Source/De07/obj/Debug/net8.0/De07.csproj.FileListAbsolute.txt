@@ -1,0 +1,15 @@
+D:\Project VS\DOTNET_KTKN2\Source\De07\bin\Debug\net8.0\De07.exe
+D:\Project VS\DOTNET_KTKN2\Source\De07\bin\Debug\net8.0\De07.deps.json
+D:\Project VS\DOTNET_KTKN2\Source\De07\bin\Debug\net8.0\De07.runtimeconfig.json
+D:\Project VS\DOTNET_KTKN2\Source\De07\bin\Debug\net8.0\De07.dll
+D:\Project VS\DOTNET_KTKN2\Source\De07\bin\Debug\net8.0\De07.pdb
+D:\Project VS\DOTNET_KTKN2\Source\De07\obj\Debug\net8.0\De07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project VS\DOTNET_KTKN2\Source\De07\obj\Debug\net8.0\De07.AssemblyInfoInputs.cache
+D:\Project VS\DOTNET_KTKN2\Source\De07\obj\Debug\net8.0\De07.AssemblyInfo.cs
+D:\Project VS\DOTNET_KTKN2\Source\De07\obj\Debug\net8.0\De07.csproj.CoreCompileInputs.cache
+D:\Project VS\DOTNET_KTKN2\Source\De07\obj\Debug\net8.0\De07.sourcelink.json
+D:\Project VS\DOTNET_KTKN2\Source\De07\obj\Debug\net8.0\De07.dll
+D:\Project VS\DOTNET_KTKN2\Source\De07\obj\Debug\net8.0\refint\De07.dll
+D:\Project VS\DOTNET_KTKN2\Source\De07\obj\Debug\net8.0\De07.pdb
+D:\Project VS\DOTNET_KTKN2\Source\De07\obj\Debug\net8.0\De07.genruntimeconfig.cache
+D:\Project VS\DOTNET_KTKN2\Source\De07\obj\Debug\net8.0\ref\De07.dll
