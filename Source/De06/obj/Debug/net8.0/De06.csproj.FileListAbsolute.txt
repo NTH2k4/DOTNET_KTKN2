@@ -1,0 +1,15 @@
+D:\Project VS\DOTNET_KTKN2\Source\De06\bin\Debug\net8.0\De06.exe
+D:\Project VS\DOTNET_KTKN2\Source\De06\bin\Debug\net8.0\De06.deps.json
+D:\Project VS\DOTNET_KTKN2\Source\De06\bin\Debug\net8.0\De06.runtimeconfig.json
+D:\Project VS\DOTNET_KTKN2\Source\De06\bin\Debug\net8.0\De06.dll
+D:\Project VS\DOTNET_KTKN2\Source\De06\bin\Debug\net8.0\De06.pdb
+D:\Project VS\DOTNET_KTKN2\Source\De06\obj\Debug\net8.0\De06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project VS\DOTNET_KTKN2\Source\De06\obj\Debug\net8.0\De06.AssemblyInfoInputs.cache
+D:\Project VS\DOTNET_KTKN2\Source\De06\obj\Debug\net8.0\De06.AssemblyInfo.cs
+D:\Project VS\DOTNET_KTKN2\Source\De06\obj\Debug\net8.0\De06.csproj.CoreCompileInputs.cache
+D:\Project VS\DOTNET_KTKN2\Source\De06\obj\Debug\net8.0\De06.sourcelink.json
+D:\Project VS\DOTNET_KTKN2\Source\De06\obj\Debug\net8.0\De06.dll
+D:\Project VS\DOTNET_KTKN2\Source\De06\obj\Debug\net8.0\refint\De06.dll
+D:\Project VS\DOTNET_KTKN2\Source\De06\obj\Debug\net8.0\De06.pdb
+D:\Project VS\DOTNET_KTKN2\Source\De06\obj\Debug\net8.0\De06.genruntimeconfig.cache
+D:\Project VS\DOTNET_KTKN2\Source\De06\obj\Debug\net8.0\ref\De06.dll
