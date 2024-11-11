@@ -1,0 +1,15 @@
+D:\Project VS\DOTNET_KTKN2\Source\De18\bin\Debug\net8.0\De18.exe
+D:\Project VS\DOTNET_KTKN2\Source\De18\bin\Debug\net8.0\De18.deps.json
+D:\Project VS\DOTNET_KTKN2\Source\De18\bin\Debug\net8.0\De18.runtimeconfig.json
+D:\Project VS\DOTNET_KTKN2\Source\De18\bin\Debug\net8.0\De18.dll
+D:\Project VS\DOTNET_KTKN2\Source\De18\bin\Debug\net8.0\De18.pdb
+D:\Project VS\DOTNET_KTKN2\Source\De18\obj\Debug\net8.0\De18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project VS\DOTNET_KTKN2\Source\De18\obj\Debug\net8.0\De18.AssemblyInfoInputs.cache
+D:\Project VS\DOTNET_KTKN2\Source\De18\obj\Debug\net8.0\De18.AssemblyInfo.cs
+D:\Project VS\DOTNET_KTKN2\Source\De18\obj\Debug\net8.0\De18.csproj.CoreCompileInputs.cache
+D:\Project VS\DOTNET_KTKN2\Source\De18\obj\Debug\net8.0\De18.sourcelink.json
+D:\Project VS\DOTNET_KTKN2\Source\De18\obj\Debug\net8.0\De18.dll
+D:\Project VS\DOTNET_KTKN2\Source\De18\obj\Debug\net8.0\refint\De18.dll
+D:\Project VS\DOTNET_KTKN2\Source\De18\obj\Debug\net8.0\De18.pdb
+D:\Project VS\DOTNET_KTKN2\Source\De18\obj\Debug\net8.0\De18.genruntimeconfig.cache
+D:\Project VS\DOTNET_KTKN2\Source\De18\obj\Debug\net8.0\ref\De18.dll
