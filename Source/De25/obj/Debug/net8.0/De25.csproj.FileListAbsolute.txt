@@ -1,0 +1,15 @@
+D:\Project VS\DOTNET_KTKN2\Source\De25\bin\Debug\net8.0\De25.exe
+D:\Project VS\DOTNET_KTKN2\Source\De25\bin\Debug\net8.0\De25.deps.json
+D:\Project VS\DOTNET_KTKN2\Source\De25\bin\Debug\net8.0\De25.runtimeconfig.json
+D:\Project VS\DOTNET_KTKN2\Source\De25\bin\Debug\net8.0\De25.dll
+D:\Project VS\DOTNET_KTKN2\Source\De25\bin\Debug\net8.0\De25.pdb
+D:\Project VS\DOTNET_KTKN2\Source\De25\obj\Debug\net8.0\De25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project VS\DOTNET_KTKN2\Source\De25\obj\Debug\net8.0\De25.AssemblyInfoInputs.cache
+D:\Project VS\DOTNET_KTKN2\Source\De25\obj\Debug\net8.0\De25.AssemblyInfo.cs
+D:\Project VS\DOTNET_KTKN2\Source\De25\obj\Debug\net8.0\De25.csproj.CoreCompileInputs.cache
+D:\Project VS\DOTNET_KTKN2\Source\De25\obj\Debug\net8.0\De25.sourcelink.json
+D:\Project VS\DOTNET_KTKN2\Source\De25\obj\Debug\net8.0\De25.dll
+D:\Project VS\DOTNET_KTKN2\Source\De25\obj\Debug\net8.0\refint\De25.dll
+D:\Project VS\DOTNET_KTKN2\Source\De25\obj\Debug\net8.0\De25.pdb
+D:\Project VS\DOTNET_KTKN2\Source\De25\obj\Debug\net8.0\De25.genruntimeconfig.cache
+D:\Project VS\DOTNET_KTKN2\Source\De25\obj\Debug\net8.0\ref\De25.dll
